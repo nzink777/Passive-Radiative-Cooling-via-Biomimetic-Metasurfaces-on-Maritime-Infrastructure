@@ -1,0 +1,2 @@
+# Passive-Radiative-Cooling-via-Biomimetic-Metasurfaces-on-Maritime-Infrastructure
+Theoretical models and strategies for mitigating oceanic thermal expansion using Passive Daytime Radiative Cooling (PDRC). By retrofitting maritime infrastructure with biomimetic metasurfaces, we create a symbiotic, zero-energy cooling network. A rising tide lifts all ships; localized improvements globally benefit everyone.
