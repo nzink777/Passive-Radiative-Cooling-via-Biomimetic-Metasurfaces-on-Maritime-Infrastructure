@@ -1,4 +1,4 @@
-# Passive Radiative Cooling via Biomimetic Metasurfaces (Passive Nautilus)
+# Passive Radiative Cooling via Biomimetic Metasurfaces.
 
 ## Overview
 This repository contains the theoretical framework, mathematical models, and deployment strategies for mitigating localized oceanic thermal expansion using Passive Daytime Radiative Cooling (PDRC). 
