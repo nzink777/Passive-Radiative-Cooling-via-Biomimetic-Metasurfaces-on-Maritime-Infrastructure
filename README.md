@@ -51,5 +51,11 @@ docs: Add finalized Register 1 Blueprint: Passive Radiative Cooling via Biomimet
 You can include this blurb to summarize the upload:
 Status: Register 1 Blueprint Registered
 This repository now hosts the formal academic framework for utilizing maritime infrastructure as a distributed, autonomous cooling network. The core methodology utilizes passive daytime radiative cooling (PDRC) through biomimetic metasurfaces to reject thermal energy directly into deep space.
-  
+
+models/PDRC_net_cooling_power.py
+Model Parameters Explained
+Emissivity (\epsilon): Set to 0.95. The metasurface must maintain near-unity emissivity within the 8-13 \mu m atmospheric transparency window to effectively radiate heat into deep space.  
+Solar Reflectivity (R): Set to 0.96. High reflectivity in the solar spectrum (0.3-2.5 \mu m) is critical to minimize the P_{sun} heat flux, which would otherwise overpower the radiative cooling effect during daylight hours.  
+Convective Coefficient (h_{conv}): This accounts for environmental losses. In maritime applications, wind speed over the deck will influence this variable.
+
 Guided by the principle that a rising tide lifts all ships, this work provides a scalable, zero-energy intervention to localized oceanic thermal expansion. By improving thermodynamic balance in individual sectors, we contribute to systemic stability and planetary benefit, ensuring no one is left behind.
