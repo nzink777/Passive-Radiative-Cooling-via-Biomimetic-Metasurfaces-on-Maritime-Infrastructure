@@ -46,3 +46,10 @@ Shi, N. N., et al. (2015). "Keeping cool: Enhanced optical reflection and radiat
 IPCC, (2021). Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report.
 Eghtesad, A., et al. (Conceptual). Baobab Floating Waterfall Power Plant. Design and integration of biomimetic regenerative coastal infrastructure.
 
+docs: Add finalized Register 1 Blueprint: Passive Radiative Cooling via Biomimetic Metasurfaces on Maritime Infrastructure[span_1](start_span)[span_1](end_span)
+2. Repository Summary (For README.md or Release Notes)
+You can include this blurb to summarize the upload:
+Status: Register 1 Blueprint Registered
+This repository now hosts the formal academic framework for utilizing maritime infrastructure as a distributed, autonomous cooling network. The core methodology utilizes passive daytime radiative cooling (PDRC) through biomimetic metasurfaces to reject thermal energy directly into deep space.
+  
+Guided by the principle that a rising tide lifts all ships, this work provides a scalable, zero-energy intervention to localized oceanic thermal expansion. By improving thermodynamic balance in individual sectors, we contribute to systemic stability and planetary benefit, ensuring no one is left behind.
